@@ -9,6 +9,7 @@ I think this is a really good opportunity for me to start with that, because 1. 
 ## TODO
 - Learn the basics of HTMX
   - How does this interact w/ go, especially when not hosting myself. Does it even work?
+  - I think short answer might be [no](https://www.reddit.com/r/htmx/comments/19c4q10/is_there_any_way_to_set_up_htmx_with_github_pages/)
 - Get a basic site (more than hello world) set up w/ htmx
   - I'm also curious about tailwind but I'm not sure if/what this will add
 - Build out additional pages
