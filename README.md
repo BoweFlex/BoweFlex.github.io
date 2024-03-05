@@ -16,6 +16,7 @@ I think this is a really good opportunity for me to start with that, because 1. 
   - portfolio/resume
   - contact me
   - Blog?
+    - May be worth looking at adding [jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
   - Maybe a basic typing test app?
   - ?
 - Keep it dynamic and keep it concurrent where possible
