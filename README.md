@@ -1,4 +1,8 @@
+# BoweFlex.github.io
+
+This is intended to be my personal, and primarily technical, blog. Shout out to [Chirpy Starter](https://github.com/cotes2020/chirpy-starter) for the super easy setup of such a fleshed out site!
 # Chirpy Starter
+
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
