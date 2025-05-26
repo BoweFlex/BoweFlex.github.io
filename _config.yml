@@ -16,10 +16,11 @@ timezone: America/New_York
 
 title: Jonathan Bowe # the main title
 
-tagline: Experienced Database and Site Reliability Engineer, Hobbyist Developer # it will display as the sub-title
+tagline: Engineer experienced with database management, infrastructure as code, Kubernetes, and automation. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Jonathan Bowe's site, intended primarily as a technical blog.
+  I'm passionate about custom (ergonomic) keyboards and Golang.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +36,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jonathan Bowe
-  email: bowejonathan99@gmail.com # change to your email address
+  email: jonathan@bowedev.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/BoweFlex # change to your github homepage
